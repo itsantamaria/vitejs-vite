@@ -1,0 +1,2 @@
+Terminal window
+npm create cloudflare@latest -- my-react-app --framework=react
